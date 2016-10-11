@@ -1,0 +1,4 @@
+AuthType Basic
+AuthUserFile "/home/tbcputer/.htpasswds/public_html/admin/passwd"
+require valid-user
+AuthName "admin"

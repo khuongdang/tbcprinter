@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f43053-828b-48ba-aec1-18f0fe41ba24" name="Default" comment="" />
+    <ignored path="tbcprinter.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tbcprinter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processFrame.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/processFrame.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="166" column="82" selection-start-line="166" selection-start-column="82" selection-end-line="166" selection-end-column="82" />
+              <folding>
+                <marker date="1476195892631" expanded="true" signature="322:369" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="555:605" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="631:685" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="977:1024" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="1214:1264" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="1291:1345" ph="delete from " />
+                <marker date="1476195892631" expanded="true" signature="1864:2049" ph="insert into tbl_product_new... " />
+                <marker date="1476195892631" expanded="true" signature="2139:2205" ph="..." />
+                <marker date="1476195892631" expanded="true" signature="2576:2765" ph="insert into tbl_product_special... " />
+                <marker date="1476195892631" expanded="true" signature="2855:2921" ph="..." />
+                <marker date="1476195892631" expanded="true" signature="6096:6312" ph="select *,DAT... ${$tableConfig}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_new.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/product_new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="83" column="142" selection-start-line="83" selection-start-column="142" selection-end-line="83" selection-end-column="142" />
+              <folding>
+                <marker date="1476195962023" expanded="true" signature="242:289" ph="delete from " />
+                <marker date="1476195962023" expanded="true" signature="527:574" ph="delete from " />
+                <marker date="1476195962023" expanded="true" signature="645:711" ph="..." />
+                <marker date="1476195962023" expanded="true" signature="2643:2836" ph="select *,DAT... ${$tableConfig}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/product_category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
+              <folding>
+                <marker date="1476195792054" expanded="true" signature="164:222" ph="select id fr... tbl_product_category" />
+                <marker date="1476195792054" expanded="true" signature="302:353" ph="delete from " />
+                <marker date="1476195792054" expanded="true" signature="916:974" ph="select id fr... tbl_product_category" />
+                <marker date="1476195792054" expanded="true" signature="1056:1107" ph="delete from " />
+                <marker date="1476195792054" expanded="true" signature="3910:4120" ph="select *,DAT... tbl_product_category" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/module/member_account.php" />
+        <option value="$PROJECT_DIR$/lib/lang1.php" />
+        <option value="$PROJECT_DIR$/admin/product_special.php" />
+        <option value="$PROJECT_DIR$/module/product_category.php" />
+        <option value="$PROJECT_DIR$/module/product_special.php" />
+        <option value="$PROJECT_DIR$/box/box_login.php" />
+        <option value="$PROJECT_DIR$/admin/processTitle.php" />
+        <option value="$PROJECT_DIR$/module/processTitle.php" />
+        <option value="$PROJECT_DIR$/module/processFrame.php" />
+        <option value="$PROJECT_DIR$/module/home.php" />
+        <option value="$PROJECT_DIR$/module/product.php" />
+        <option value="$PROJECT_DIR$/module/products.php" />
+        <option value="$PROJECT_DIR$/module/cart.php" />
+        <option value="$PROJECT_DIR$/module/member_login.php" />
+        <option value="$PROJECT_DIR$/module/member_registry.php" />
+        <option value="$PROJECT_DIR$/module/news.php" />
+        <option value="$PROJECT_DIR$/module/contact.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/admin/panel_Left.php" />
+        <option value="$PROJECT_DIR$/admin/processFrame.php" />
+        <option value="$PROJECT_DIR$/lib/func.lib.php" />
+        <option value="$PROJECT_DIR$/admin/config.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/common_start.php" />
+        <option value="$PROJECT_DIR$/admin/product_category.php" />
+        <option value="$PROJECT_DIR$/admin/product.php" />
+        <option value="$PROJECT_DIR$/admin/product_new.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tbcprinter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tbcprinter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tbcprinter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tbcprinter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tbcprinter" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="product_new&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/product_new.php&#10;product.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/product.php&#10;product_category.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/product_category.php&#10;processFrame&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/processFrame.php&#10;admin\product_new.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/product_new.php&#10;processFrame.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/processFrame.php&#10;admin\config.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/config.php&#10;admin\processFrame.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/processFrame.php&#10;panel_Left.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/panel_Left.php&#10;tbcprinter\admin\index.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/index.php&#10;config&#9;FILE&#9;file://D:/ROOT/tbcprinter/config.php&#10;login&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/login.php&#10;contact&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/contact.php&#10;news&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/news.php&#10;member_registry.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/member_registry.php&#10;member_log&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/member_login.php&#10;cart&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/cart.php&#10;products&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/products.php&#10;produc&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/product.php&#10;home&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/home.php&#10;processTitl&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/processTitle.php&#10;processTitle.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/processTitle.php&#10;box_login.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/box/box_login.php&#10;product_spe&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/product_special.php&#10;product_special.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/admin/product_special.php&#10;\tbcprinter\lib\lang1.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/lib/lang1.php&#10;common_start.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/common_start.php&#10;module\product_category.php&#9;FILE&#9;file://D:/ROOT/tbcprinter/module/product_category.php" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f43053-828b-48ba-aec1-18f0fe41ba24" name="Default" comment="" />
+      <created>1475998019941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475998019941</updated>
+      <workItem from="1475998021063" duration="6000" />
+      <workItem from="1475998041996" duration="4793000" />
+      <workItem from="1476189343098" duration="3758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8557000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25321338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <marker date="1476190942151" expanded="true" signature="1474:1665" ph="select *,DAT... tbl_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/func.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="143" column="16" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="16" />
+          <folding>
+            <marker date="1476190541163" expanded="true" signature="5988:6029" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="6219:6260" ph="select count... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="6943:6987" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="7482:7526" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="8012:8056" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="8509:8567" ph="select ${$va... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="9110:9144" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="22725:22774" ph="INSERT INTO ${$table}... " />
+            <marker date="1476190541163" expanded="true" signature="23077:23109" ph="UPDATE ${$ta... " />
+            <marker date="1476190541163" expanded="true" signature="23489:23524" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product_special.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <marker date="1475999714755" expanded="true" signature="249:296" ph="delete from " />
+            <marker date="1475999714755" expanded="true" signature="534:581" ph="delete from " />
+            <marker date="1475999714755" expanded="true" signature="2549:2742" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product_special.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1476008781229" expanded="true" signature="107:351" ph="select tbl_p... tbl_product_special" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box/box_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <marker date="1476008824204" expanded="true" signature="1460:1505" ph="select * fro... tbl_member" />
+            <marker date="1476008824204" expanded="true" signature="2075:2120" ph="select * fro... tbl_member" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/processTitle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/processTitle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5814">
+          <caret line="342" column="59" selection-start-line="342" selection-start-column="59" selection-end-line="342" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/processFrame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1476009074834" expanded="true" signature="292:520" ph="select tbl_p... tbl_product_new" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1476009137123" expanded="true" signature="208:322" ph="select * fro... tbl_product" />
+            <marker date="1476009137123" expanded="true" signature="3539:3605" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="2" selection-start-line="93" selection-start-column="2" selection-end-line="93" selection-end-column="2" />
+          <folding>
+            <marker date="1476009195657" expanded="true" signature="237:357" ph="select * fro... tbl_product" />
+            <marker date="1476009195657" expanded="true" signature="3613:3679" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1476009252166" expanded="true" signature="3333:3385" ph="select * fro... tbl_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+          <folding>
+            <marker date="1476009315529" expanded="true" signature="1472:1517" ph="select * fro... tbl_member" />
+            <marker date="1476009315529" expanded="true" signature="2086:2131" ph="select * fro... tbl_member" />
+            <marker date="1476009315529" expanded="true" signature="2237:2250" ph="..." />
+            <marker date="1476009315529" expanded="true" signature="2421:2434" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <marker date="1476191457913" expanded="true" signature="1324:1413" ph="..." />
+            <marker date="1476191457913" expanded="true" signature="1504:1592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1476008758460" expanded="true" signature="3571:3724" ph="select * fro... tbl_product_category" />
+            <marker date="1476008758460" expanded="true" signature="3633:3697" ph="select id fr... tbl_product_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/processFrame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lang1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_registry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="16" selection-start-line="98" selection-start-column="0" selection-end-line="108" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1257746100000" expanded="true" signature="319:366" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="552:602" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="628:682" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="974:1021" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1211:1261" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1288:1342" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1844:1971" ph="insert into tbl_product_new... " />
+            <marker date="1257746100000" expanded="true" signature="2382:2513" ph="insert into tbl_product_special... " />
+            <marker date="1257746100000" expanded="true" signature="5201:5417" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <marker date="1476009770133" expanded="true" signature="435:542" ph="select * fro... tbl_content" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1476011058509" expanded="true" signature="210:280" ph="select * fro... tbl_user" />
+            <marker date="1476011058509" expanded="true" signature="2104:2110" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="320" column="13" selection-start-line="320" selection-start-column="13" selection-end-line="320" selection-end-column="13" />
+          <folding>
+            <marker date="1475999392997" expanded="true" signature="5532:5592" ph="select * fro... tbl_member" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5814">
+          <caret line="342" column="59" selection-start-line="342" selection-start-column="59" selection-end-line="342" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5508">
+          <caret line="320" column="13" selection-start-line="320" selection-start-column="13" selection-end-line="320" selection-end-column="13" />
+          <folding>
+            <marker date="1475999392997" expanded="true" signature="5532:5592" ph="select * fro... tbl_member" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lang1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="0" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <folding>
+            <marker date="1476008758460" expanded="true" signature="3571:3724" ph="select * fro... tbl_product_category" />
+            <marker date="1476008758460" expanded="true" signature="3633:3697" ph="select id fr... tbl_product_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box/box_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+          <folding>
+            <marker date="1476008824204" expanded="true" signature="1460:1505" ph="select * fro... tbl_member" />
+            <marker date="1476008824204" expanded="true" signature="2075:2120" ph="select * fro... tbl_member" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/processTitle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/processTitle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/processFrame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1476009074834" expanded="true" signature="292:520" ph="select tbl_p... tbl_product_new" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="2" selection-start-line="93" selection-start-column="2" selection-end-line="93" selection-end-column="2" />
+          <folding>
+            <marker date="1476009195657" expanded="true" signature="237:357" ph="select * fro... tbl_product" />
+            <marker date="1476009195657" expanded="true" signature="3613:3679" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1476009252166" expanded="true" signature="3333:3385" ph="select * fro... tbl_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+          <folding>
+            <marker date="1476009315529" expanded="true" signature="1472:1517" ph="select * fro... tbl_member" />
+            <marker date="1476009315529" expanded="true" signature="2086:2131" ph="select * fro... tbl_member" />
+            <marker date="1476009315529" expanded="true" signature="2237:2250" ph="..." />
+            <marker date="1476009315529" expanded="true" signature="2421:2434" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1257746100000" expanded="true" signature="319:366" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="552:602" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="628:682" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="974:1021" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1211:1261" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1288:1342" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1844:1971" ph="insert into tbl_product_new... " />
+            <marker date="1257746100000" expanded="true" signature="2382:2513" ph="insert into tbl_product_special... " />
+            <marker date="1257746100000" expanded="true" signature="5201:5417" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <marker date="1476009770133" expanded="true" signature="435:542" ph="select * fro... tbl_content" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/member_registry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="16" selection-start-line="98" selection-start-column="0" selection-end-line="108" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1476011058509" expanded="true" signature="210:280" ph="select * fro... tbl_user" />
+            <marker date="1476011058509" expanded="true" signature="2104:2110" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jscripts/FCKeditor/editor/filemanager/upload/php/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1376">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/panel_Left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <marker date="1476190942151" expanded="true" signature="1474:1665" ph="select *,DAT... tbl_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/baohanh.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="109" column="32" selection-start-line="109" selection-start-column="32" selection-end-line="109" selection-end-column="32" />
+          <folding>
+            <marker date="1257746100000" expanded="true" signature="322:369" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="555:609" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="635:693" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="719:774" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1066:1113" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1303:1353" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1380:1434" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="1461:1512" ph="delete from " />
+            <marker date="1257746100000" expanded="true" signature="2014:2141" ph="insert into tbl_product_new... " />
+            <marker date="1257746100000" expanded="true" signature="2552:2683" ph="insert into tbl_product_special... " />
+            <marker date="1257746100000" expanded="true" signature="3083:3211" ph="insert into tbl_product_sell... " />
+            <marker date="1257746100000" expanded="true" signature="5934:6150" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/baohanh_category_m.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-869">
+          <caret line="136" column="20" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="20" />
+          <folding>
+            <marker date="1257746100000" expanded="true" signature="1996:2260" ph="update tbl_b... " />
+            <marker date="1257746100000" expanded="true" signature="2283:2561" ph="insert into tbl_baohanh_category... " />
+            <marker date="1257746100000" expanded="true" signature="3837:3906" ph="update tbl_b... " />
+            <marker date="1257746100000" expanded="true" signature="4241:4297" ph="select * fro... tbl_baohanh_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/func.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="461" column="59" selection-start-line="461" selection-start-column="59" selection-end-line="461" selection-end-column="59" />
+          <folding>
+            <marker date="1476190541163" expanded="true" signature="5988:6029" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="6219:6260" ph="select count... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="6943:6987" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="7482:7526" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="8012:8056" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="8509:8567" ph="select ${$va... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="9110:9144" ph="select * fro... ${$table}" />
+            <marker date="1476190541163" expanded="true" signature="22725:22774" ph="INSERT INTO ${$table}... " />
+            <marker date="1476190541163" expanded="true" signature="23077:23109" ph="UPDATE ${$ta... " />
+            <marker date="1476190541163" expanded="true" signature="23489:23524" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1476191457913" expanded="true" signature="1324:1413" ph="..." />
+            <marker date="1476191457913" expanded="true" signature="1504:1592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product_special.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <marker date="1475999714755" expanded="true" signature="249:296" ph="delete from " />
+            <marker date="1475999714755" expanded="true" signature="534:581" ph="delete from " />
+            <marker date="1475999714755" expanded="true" signature="2549:2742" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product_special.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <marker date="1476008781229" expanded="true" signature="107:351" ph="select tbl_p... tbl_product_special" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1476009137123" expanded="true" signature="208:322" ph="select * fro... tbl_product" />
+            <marker date="1476009137123" expanded="true" signature="3539:3605" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
+          <folding>
+            <marker date="1476195792054" expanded="true" signature="164:222" ph="select id fr... tbl_product_category" />
+            <marker date="1476195792054" expanded="true" signature="302:353" ph="delete from " />
+            <marker date="1476195792054" expanded="true" signature="916:974" ph="select id fr... tbl_product_category" />
+            <marker date="1476195792054" expanded="true" signature="1056:1107" ph="delete from " />
+            <marker date="1476195792054" expanded="true" signature="3910:4120" ph="select *,DAT... tbl_product_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/processFrame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="166" column="82" selection-start-line="166" selection-start-column="82" selection-end-line="166" selection-end-column="82" />
+          <folding>
+            <marker date="1476195892631" expanded="true" signature="322:369" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="555:605" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="631:685" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="977:1024" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="1214:1264" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="1291:1345" ph="delete from " />
+            <marker date="1476195892631" expanded="true" signature="1864:2049" ph="insert into tbl_product_new... " />
+            <marker date="1476195892631" expanded="true" signature="2139:2205" ph="..." />
+            <marker date="1476195892631" expanded="true" signature="2576:2765" ph="insert into tbl_product_special... " />
+            <marker date="1476195892631" expanded="true" signature="2855:2921" ph="..." />
+            <marker date="1476195892631" expanded="true" signature="6096:6312" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/product_new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="83" column="142" selection-start-line="83" selection-start-column="142" selection-end-line="83" selection-end-column="142" />
+          <folding>
+            <marker date="1476195962023" expanded="true" signature="242:289" ph="delete from " />
+            <marker date="1476195962023" expanded="true" signature="527:574" ph="delete from " />
+            <marker date="1476195962023" expanded="true" signature="645:711" ph="..." />
+            <marker date="1476195962023" expanded="true" signature="2643:2836" ph="select *,DAT... ${$tableConfig}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

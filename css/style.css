@@ -1,0 +1,141 @@
+BODY {
+	PADDING-RIGHT: 0px; 
+	OVERFLOW-Y: auto; 
+	PADDING-LEFT: 0px; 
+	text-align:center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	background-color:#e6e6e6;
+}
+
+.font_product {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFFFFF;
+ padding-left:20px;
+ height:30px;
+ background-color:#00a9dd;
+}
+.font_product_title {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:11px;
+ font-weight:bold;
+ color:#666666;
+ height:18px;
+}
+.font_menu_blue {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:13px;
+ font-weight:bold;
+ color:#0099cc;
+ padding-left:20px;
+ height:30px;
+}
+.font_menu_while {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFFFFF;
+ height:35px;
+}
+.font_while {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFFFFF;
+}
+.left_menu_bg_hover{
+ font-family:Arial, Helvetica, sans-serif;
+ background-color:#00A9DD;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFFFFF;
+}
+
+
+.left_menu_bg_over{
+ font-family:Arial, Helvetica, sans-serif;
+ background-color:#333333;
+ font-size:13px;
+ font-weight:bold;
+ color:#FFFFFF;
+}
+.font_blue {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:11px;
+ font-weight:bold;
+ color:#0099cc;
+}
+.font_xam {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ color:#000000;
+}
+.font_xam_lagre {
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:16px;
+ color:#666666;
+ font-weight:bold;
+}
+
+
+
+.bg_product{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ color:#666666;
+ padding-left:20px;
+ background-image:url(../images/bg_product.jpg); background-repeat:no-repeat;
+ height:34px;
+}
+.bg_product_hover{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ font-weight:bold;
+ color:#666666;
+ padding-left:20px;
+ background-image:url(../images/bg_product_hover.jpg); background-repeat:no-repeat;
+ height:34px;
+}
+.add_card{
+background-image:url(../images/dat_mua.jpg); background-repeat:no-repeat;
+height:22px;
+width:102px;
+padding-left:0px;
+}
+.add_card_hover{
+background-image:url(../images/dat_mua_hover.jpg); background-repeat:no-repeat;
+height:22px;
+width:102px;
+padding-left:0px;
+}
+
+.bg_product_sub{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ color:#666666;
+ padding-left:30px;
+ background-image:url(../images/bg_product_sub.jpg); background-repeat:no-repeat;
+ height:22px;
+}
+.bg_product_sub_hover{
+ font-family:Arial, Helvetica, sans-serif;
+ font-size:12px;
+ color:#666666;
+ padding-left:30px;
+ background-image:url(../images/bg_product_sub_hover.jpg); background-repeat:no-repeat;
+ height:22px;
+}
+a.link_menu:link{ text-decoration:none; color:#FFFFFF;}
+a.link_menu:visited{ text-decoration:none;  color:#FFFFFF;}
+a.link_menu:hover{ text-decoration:none; color:#FFFFFF;}
+
+a.link_menu_sp:link{ text-decoration:none; color:#666666;}
+a.link_menu_sp:visited{ text-decoration:none;  color:#666666;}
+a.link_menu_sp:hover{ text-decoration:none; color:#333333;}
+
+
+
+
